@@ -1,5 +1,5 @@
 # fiap-engineering-software-development
-Trabalho final da disciplina: Engineering Software Development
+**MBA FIAP - Avaliação Final da disciplina: Engineering Software Development**
 
 # ConvertFile API
 
@@ -7,7 +7,6 @@ Trabalho final da disciplina: Engineering Software Development
 
 Microsserviço desenvolvido em .NET Core para conversão de arquivos entre diferentes formatos.
 
-**Avaliação Final - MBA+ Engineering Software Development - FIAP**
 
 ## 🎯 Objetivo
 
