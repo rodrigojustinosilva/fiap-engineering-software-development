@@ -125,13 +125,13 @@ ConvertFile/
 
 ## 📋 Comandos para teste e execução
 
-1. Buildar e testar
-dotnet build
-dotnet test
+#### 1. Buildar e testar
+- dotnet build
+- dotnet test
 
-2. Executar API
-cd src/ConvertFile.Api
-dotnet run
+#### 2. Executar API
+- cd src/ConvertFile.Api
+- dotnet run
 
 ## 👥 Equipe
 
